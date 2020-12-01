@@ -1,3 +1,3 @@
 # git-test
 
-master node init
+branch node init
